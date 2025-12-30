@@ -7,4 +7,5 @@ Visualized overall ratings, category performance, and demographic trends by gend
 Applied clean data modeling, DAX measures, and UX best practices to deliver clear, actionable insights into workplace culture and equity.
 
 
-<img width="1952" height="1105" alt="Geotab Glassdoor Reviews" src="https://github.com/user-attachments/assets/8daadbc5-906c-47a6-ba34-b63c535dbcdd" />
+
+<img width="1961" height="1101" alt="Screenshot 2025-12-30 152603" src="https://github.com/user-attachments/assets/2298c247-8a21-4fe9-8dc2-7472a9181b11" />
