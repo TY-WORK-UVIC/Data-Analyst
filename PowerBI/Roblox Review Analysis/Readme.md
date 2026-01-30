@@ -1,6 +1,7 @@
 Roblox Reviews Sentiment Dashboard
 
 📌 Project Overview
+
 The Roblox Reviews Sentiment Dashboard is a data analytics project designed to visualize and analyze user feedback for Roblox. By leveraging sentiment analysis, this dashboard transforms raw review data into actionable insights, helping stakeholders understand player satisfaction, identify recurring issues, and track community sentiment over time.
 
 <img width="2084" height="1159" alt="Screenshot 2026-01-30 103303" src="https://github.com/user-attachments/assets/13728206-6612-49d9-a568-0a69464c19bd" />
@@ -8,23 +9,23 @@ The Roblox Reviews Sentiment Dashboard is a data analytics project designed to v
 
 📊 Key Features
 
-Sentiment Overview: High-level metrics showing the distribution of positive, neutral, and negative reviews.
+**Sentiment Overview**: High-level metrics showing the distribution of positive, neutral, and negative reviews.
 
-Trend Analysis: Time-series visualizations to monitor how sentiment shifts following game updates or platform changes.
+**Trend Analysis**: Time-series visualizations to monitor how sentiment shifts following game updates or platform changes.
 
-Word Clouds & Keyword Extraction: Identification of the most frequently mentioned topics in user feedback.
+**Word Clouds & Keyword Extraction**: Identification of the most frequently mentioned topics in user feedback.
 
-Detailed Review Breakdown: Drill-down capabilities to explore specific reviews based on rating or sentiment category.
+**Detailed Review Breakdown**: Drill-down capabilities to explore specific reviews based on rating or sentiment category.
 
-Interactive Filters: Filter data by date ranges, specific game titles, or user ratings to customize your view.
+**Interactive Filters**: Filter data by date ranges, specific game titles, or user ratings to customize your view.
 
 🛠️ Built With
 
-Power BI Desktop: Used for data modeling, DAX calculations, and report visualization.
+**Power BI Desktop**: Used for data modeling, DAX calculations, and report visualization.
 
-Power Query: Employed for data cleaning, transformation, and sentiment scoring (via AI insights or custom logic).
+**Power Query**: Employed for data cleaning, transformation, and sentiment scoring (via AI insights or custom logic).
 
-Data Sources: (e.g., App Store Reviews, Google Play Store, or Roblox Web Scraping).
+**Data Sources**: (e.g., App Store Reviews, Google Play Store, or Roblox Web Scraping).
 
 🚀 How to Use
 
@@ -38,9 +39,9 @@ Open the Roblox Reviews Sentiment Dashboard.pbix file.
 
 📝 Analysis Highlights
 
-Common Pain Points: Analysis of negative reviews often highlights issues such as lag, account security, or specific update bugs.
+**Common Pain Points**: Analysis of negative reviews often highlights issues such as lag, account security, or specific update bugs.
 
-User Favorites: Positive sentiment frequently correlates with new events, social features, and avatar customization.
+**User Favorites**: Positive sentiment frequently correlates with new events, social features, and avatar customization.
 
 📂 Project Structure
 
