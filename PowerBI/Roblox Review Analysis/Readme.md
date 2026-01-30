@@ -1,9 +1,81 @@
-Project Summary — Roblox Reviews Sentiment Dashboard (Power BI)
+🎮 Roblox Reviews Sentiment Analysis Dashboard (Power BI)
+📌 Project Overview
 
-This Power BI project analyzes thousands of Roblox app reviews to uncover player sentiment trends, version performance, and key improvement areas. The dataset includes review text, ratings, likes, app versions, and timestamps. Using Python sentiment analysis (VADER), each review was scored and imported back into Power BI for visualization.
-
-Interactive dashboards display overall satisfaction, average sentiment by app version, top positive/negative feedback, and trends over time. Dynamic slicers and drillthrough pages allow deeper exploration by app version and review rating. KPI cards highlight average rating, sentiment, and engagement, while color-coded charts and word clouds reveal recurring player concerns and praise.
-
-This report demonstrates end-to-end analytical workflow — from data cleaning and text analysis in Python to advanced visualization and storytelling in Power BI — delivering actionable insights that help developers improve user experience and prioritize updates.
+This project is an interactive Power BI dashboard that analyzes user reviews of Roblox to uncover sentiment trends and key insights. The dashboard processes raw review data, applies sentiment classification, and presents results through clear, engaging visualizations to support data-driven decision-making.
 
 <img width="2176" height="1174" alt="Roblox App Google Store Reviews (1)" src="https://github.com/user-attachments/assets/c9d4ffe4-d9c2-4467-aacc-430ea04a196d" />
+
+🎯 Project Goals
+
+Analyze large volumes of user review data
+
+Classify reviews by sentiment (Positive, Neutral, Negative)
+
+Identify trends and patterns in user feedback
+
+Present insights in a clear, user-friendly dashboard
+
+🛠 Tools & Technologies
+
+Power BI
+
+Power Query (data cleaning & transformation)
+
+DAX (measures and KPIs)
+
+Microsoft Excel (data preparation)
+
+Text & Sentiment Analysis Logic
+
+📊 Key Features
+
+Sentiment distribution of Roblox reviews
+
+Review trends over time
+
+Breakdown of positive, neutral, and negative feedback
+
+Interactive filters for dynamic analysis
+
+Clean dashboard design suitable for both technical and non-technical users
+
+🔄 Data Processing
+
+Cleaned and standardized raw review data
+
+Removed duplicates and handled missing values
+
+Applied sentiment categorization logic
+
+Created calculated measures and KPIs using DAX
+
+🔍 Insights Generated
+
+Overall sentiment trends among Roblox users
+
+Periods with spikes in negative or positive reviews
+
+Distribution of user feedback sentiment
+
+Actionable insights to improve user experience
+
+📁 Files in This Repository
+
+Roblox Reviews Sentiment Dashboard.pbix – Power BI dashboard file
+
+🚀 How to Use
+
+Download the .pbix file
+
+Open it using Power BI Desktop
+
+Interact with filters and visuals to explore sentiment insights
+
+📌 Future Enhancements
+
+Integrate NLP models for deeper sentiment analysis
+
+Add keyword/topic extraction from reviews
+
+Enable real-time or incremental data refresh
+
