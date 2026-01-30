@@ -1,4 +1,4 @@
-Roblox Reviews Sentiment Dashboard
+**Roblox Reviews Sentiment Dashboard**
 
 📌 Project Overview
 
