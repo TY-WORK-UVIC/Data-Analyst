@@ -3,7 +3,8 @@
 
 This project is an interactive Power BI dashboard that analyzes user reviews of Roblox to uncover sentiment trends and key insights. The dashboard processes raw review data, applies sentiment classification, and presents results through clear, engaging visualizations to support data-driven decision-making.
 
-<img width="2176" height="1174" alt="Roblox App Google Store Reviews (1)" src="https://github.com/user-attachments/assets/c9d4ffe4-d9c2-4467-aacc-430ea04a196d" />
+<img width="2084" height="1159" alt="Screenshot 2026-01-30 103303" src="https://github.com/user-attachments/assets/bd0e3c32-8fd6-48d6-beda-9900ca7c524c" />
+
 
 🎯 Project Goals
 
