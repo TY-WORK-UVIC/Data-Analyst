@@ -1,4 +1,4 @@
-Data analysis and data visualization of Netflix movies and TV series from the past decade.
+**Data analysis and data visualization of Netflix movies and TV series from the past decade.**
 
 📊 Netflix Data Analysis Dashboard (Power BI)
 
