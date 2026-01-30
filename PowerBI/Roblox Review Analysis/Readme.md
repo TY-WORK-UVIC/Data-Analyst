@@ -5,3 +5,4 @@ This Power BI project analyzes thousands of Roblox app reviews to uncover player
 Interactive dashboards display overall satisfaction, average sentiment by app version, top positive/negative feedback, and trends over time. Dynamic slicers and drillthrough pages allow deeper exploration by app version and review rating. KPI cards highlight average rating, sentiment, and engagement, while color-coded charts and word clouds reveal recurring player concerns and praise.
 
 This report demonstrates end-to-end analytical workflow — from data cleaning and text analysis in Python to advanced visualization and storytelling in Power BI — delivering actionable insights that help developers improve user experience and prioritize updates.
+<img width="2176" height="1174" alt="Roblox App Google Store Reviews (1)" src="https://github.com/user-attachments/assets/c9d4ffe4-d9c2-4467-aacc-430ea04a196d" />
