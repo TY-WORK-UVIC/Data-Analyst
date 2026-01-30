@@ -36,6 +36,7 @@ Data/: (Recommended) Include your source CSV or Excel files here.
 Screenshots/: (Recommended) Add images of your dashboard pages here.
 
 🚀 Getting Started
+
 **Prerequisites**: Install the latest version of Power BI Desktop.
 
 Download the SALES_OF_TRANSPORTATION_USA_WORLD.pbix
