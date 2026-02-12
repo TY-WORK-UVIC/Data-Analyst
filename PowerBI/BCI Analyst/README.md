@@ -1,6 +1,5 @@
-Create a BCI Glassdoor Reviews Analyst
 
-BCI Glassdoor Reviews
+**BCI Glassdoor Reviews**
 
 Built an interactive Power BI dashboard analyzing employee satisfaction using Glassdoor data.
 
