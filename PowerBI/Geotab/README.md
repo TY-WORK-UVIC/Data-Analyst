@@ -1,4 +1,4 @@
-Geotab Glassdoor Reviews
+**Geotab Glassdoor Reviews**
 
 Built an interactive Power BI dashboard analyzing employee satisfaction using Glassdoor data. 
 
